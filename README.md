@@ -1,1 +1,1 @@
-first Raect project (tutorial from https://ru.reactjs.org)
+first React project (tutorial from https://ru.reactjs.org)
